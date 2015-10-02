@@ -12,8 +12,10 @@ namespace Practice2015
         {
             //Tester tester = new Tester();
             //tester.RotateArrayTest();
-            ChangeTester changeTester = new ChangeTester();
-            changeTester.Test();
+            //ChangeTester changeTester = new ChangeTester();
+            //changeTester.Test();
+            LinkedListProblems linkedTester = new LinkedListProblems();
+            linkedTester.Test();
         }
     }
 }

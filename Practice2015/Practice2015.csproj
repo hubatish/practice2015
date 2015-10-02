@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayRotation.cs" />
+    <Compile Include="LinkedListProblems.cs" />
+    <Compile Include="CoinChangeProblem.cs" />
+    <Compile Include="LINQPractice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
